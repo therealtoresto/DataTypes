@@ -1,8 +1,9 @@
 'use strict';
 
-// result of this example was 'undefined' because js hoisted 
-// variable to the top
+const inc = obj => {
+    if (typeof obj === 'object') {
+        obj.n++;
+    }
+};
 
-console.log(a);
-
-var a = 5;
+module.exports = { inc };
