@@ -1,0 +1,26 @@
+{
+  "name": "datatypes",
+  "version": "1.0.0",
+  "description": "datatypes examples on js",
+  "main": "empty",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealtoresto/DataTypes.git"
+  },
+  "keywords": [
+    "data",
+    "types"
+  ],
+  "author": "therealtoresto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therealtoresto/DataTypes/issues"
+  },
+  "homepage": "https://github.com/therealtoresto/DataTypes#readme",
+  "devDependencies": {
+    "eslint": "^7.21.0"
+  }
+}
