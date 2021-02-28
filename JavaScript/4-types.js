@@ -33,4 +33,4 @@ console.log({ isArray: Array.isArray(person) });
 console.log({ cities }, typeof cities);
 console.log({ isArray: Array.isArray(cities) });
 
-console.log({ instanseofArray: cities instanceof Array});
+console.log({ instanseofArray: cities instanceof Array });
